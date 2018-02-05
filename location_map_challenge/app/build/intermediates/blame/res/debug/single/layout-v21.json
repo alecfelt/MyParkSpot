@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "/Users/alecfelt/MyParkSpot/myparkspot/location_map_challenge/app/build/intermediates/res/merged/debug/layout-v21/notification_action_tombstone.xml",
+        "source": "/Users/alecfelt/.android/build-cache/939da038cf9a45c34ac4bb3c4cb08d122790232f/output/res/layout-v21/notification_action_tombstone.xml"
+    },
+    {
+        "merged": "/Users/alecfelt/MyParkSpot/myparkspot/location_map_challenge/app/build/intermediates/res/merged/debug/layout-v21/notification_action.xml",
+        "source": "/Users/alecfelt/.android/build-cache/939da038cf9a45c34ac4bb3c4cb08d122790232f/output/res/layout-v21/notification_action.xml"
+    },
+    {
+        "merged": "/Users/alecfelt/MyParkSpot/myparkspot/location_map_challenge/app/build/intermediates/res/merged/debug/layout-v21/notification_template_icon_group.xml",
+        "source": "/Users/alecfelt/.android/build-cache/939da038cf9a45c34ac4bb3c4cb08d122790232f/output/res/layout-v21/notification_template_icon_group.xml"
+    },
+    {
+        "merged": "/Users/alecfelt/MyParkSpot/myparkspot/location_map_challenge/app/build/intermediates/res/merged/debug/layout-v21/notification_template_custom_big.xml",
+        "source": "/Users/alecfelt/.android/build-cache/939da038cf9a45c34ac4bb3c4cb08d122790232f/output/res/layout-v21/notification_template_custom_big.xml"
+    }
+]

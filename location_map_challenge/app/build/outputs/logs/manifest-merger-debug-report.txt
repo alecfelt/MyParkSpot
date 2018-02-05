@@ -1,0 +1,133 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/alecfelt/MyParkSpot/myparkspot/location_map_challenge/app/src/main/AndroidManifest.xml:2:1-44:12
+	package
+		ADDED from /Users/alecfelt/MyParkSpot/myparkspot/location_map_challenge/app/src/main/AndroidManifest.xml:3:5-45
+		INJECTED from /Users/alecfelt/MyParkSpot/myparkspot/location_map_challenge/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/alecfelt/MyParkSpot/myparkspot/location_map_challenge/app/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /Users/alecfelt/MyParkSpot/myparkspot/location_map_challenge/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/alecfelt/MyParkSpot/myparkspot/location_map_challenge/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /Users/alecfelt/MyParkSpot/myparkspot/location_map_challenge/app/src/main/AndroidManifest.xml:2:11-69
+	android:versionCode
+		INJECTED from /Users/alecfelt/MyParkSpot/myparkspot/location_map_challenge/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/alecfelt/MyParkSpot/myparkspot/location_map_challenge/app/src/main/AndroidManifest.xml
+uses-permission#android.permission.ACCESS_FINE_LOCATION
+ADDED from /Users/alecfelt/MyParkSpot/myparkspot/location_map_challenge/app/src/main/AndroidManifest.xml:10:5-79
+	android:name
+		ADDED from /Users/alecfelt/MyParkSpot/myparkspot/location_map_challenge/app/src/main/AndroidManifest.xml:10:22-76
+application
+ADDED from /Users/alecfelt/MyParkSpot/myparkspot/location_map_challenge/app/src/main/AndroidManifest.xml:12:5-41:19
+MERGED from [com.android.support:appcompat-v7:26.0.0-alpha1] /Users/alecfelt/.android/build-cache/939da038cf9a45c34ac4bb3c4cb08d122790232f/output/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:animated-vector-drawable:26.0.0-alpha1] /Users/alecfelt/.android/build-cache/eff523cd2dff9d3283039470bae28ea5519c0031/output/AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:support-vector-drawable:26.0.0-alpha1] /Users/alecfelt/.android/build-cache/2b495489fce2f2c5b12abeedc613f13e847ff1bb/output/AndroidManifest.xml:26:5-20
+MERGED from [com.google.android.gms:play-services-maps:11.0.4] /Users/alecfelt/.android/build-cache/97684363c2b8e2020c1400306b7cef757d1a1f63/output/AndroidManifest.xml:24:5-19
+MERGED from [com.google.android.gms:play-services-base:11.0.4] /Users/alecfelt/.android/build-cache/fa349c45dbbfc63b844d240168a8b3c398640ece/output/AndroidManifest.xml:18:5-20:19
+MERGED from [com.google.android.gms:play-services-tasks:11.0.4] /Users/alecfelt/.android/build-cache/74f7ce64a444b3cdb2418e12bc74a65a41d32525/output/AndroidManifest.xml:4:5-19
+MERGED from [com.google.android.gms:play-services-basement:11.0.4] /Users/alecfelt/.android/build-cache/3f646f2f842aa3af5a2e104915064b90e2a35d4c/output/AndroidManifest.xml:19:5-21:19
+MERGED from [com.android.support:support-v4:26.0.0-alpha1] /Users/alecfelt/.android/build-cache/6b0cd7e74ca4e8857f53d2837348e26bcb0bad51/output/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-media-compat:26.0.0-alpha1] /Users/alecfelt/.android/build-cache/325f29fd3f1187f7d0b3c6149362aa39b2de7f21/output/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-fragment:26.0.0-alpha1] /Users/alecfelt/.android/build-cache/140a300b44981cff7825661a0e56658a0f5c1dd6/output/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-core-ui:26.0.0-alpha1] /Users/alecfelt/.android/build-cache/db12c17a8bdaf683a4de555d12b7437a401b5722/output/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-core-utils:26.0.0-alpha1] /Users/alecfelt/.android/build-cache/8f3336fa590375a547deb009b938c85ae25f2db2/output/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-compat:26.0.0-alpha1] /Users/alecfelt/.android/build-cache/6af004cc92b99d4456ce66349ca3e0a23b5670f5/output/AndroidManifest.xml:29:5-20
+	android:label
+		ADDED from /Users/alecfelt/MyParkSpot/myparkspot/location_map_challenge/app/src/main/AndroidManifest.xml:15:9-41
+	android:supportsRtl
+		ADDED from /Users/alecfelt/MyParkSpot/myparkspot/location_map_challenge/app/src/main/AndroidManifest.xml:17:9-35
+	android:roundIcon
+		ADDED from /Users/alecfelt/MyParkSpot/myparkspot/location_map_challenge/app/src/main/AndroidManifest.xml:16:9-54
+	android:allowBackup
+		ADDED from /Users/alecfelt/MyParkSpot/myparkspot/location_map_challenge/app/src/main/AndroidManifest.xml:13:9-35
+	android:icon
+		ADDED from /Users/alecfelt/MyParkSpot/myparkspot/location_map_challenge/app/src/main/AndroidManifest.xml:14:9-43
+	android:theme
+		ADDED from /Users/alecfelt/MyParkSpot/myparkspot/location_map_challenge/app/src/main/AndroidManifest.xml:18:9-40
+meta-data#com.google.android.geo.API_KEY
+ADDED from /Users/alecfelt/MyParkSpot/myparkspot/location_map_challenge/app/src/main/AndroidManifest.xml:28:9-30:55
+	android:value
+		ADDED from /Users/alecfelt/MyParkSpot/myparkspot/location_map_challenge/app/src/main/AndroidManifest.xml:30:13-52
+	android:name
+		ADDED from /Users/alecfelt/MyParkSpot/myparkspot/location_map_challenge/app/src/main/AndroidManifest.xml:29:13-58
+activity#cmps121.location_map_challenge.MapsActivity
+ADDED from /Users/alecfelt/MyParkSpot/myparkspot/location_map_challenge/app/src/main/AndroidManifest.xml:32:9-40:20
+	android:label
+		ADDED from /Users/alecfelt/MyParkSpot/myparkspot/location_map_challenge/app/src/main/AndroidManifest.xml:34:13-56
+	android:name
+		ADDED from /Users/alecfelt/MyParkSpot/myparkspot/location_map_challenge/app/src/main/AndroidManifest.xml:33:13-41
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from /Users/alecfelt/MyParkSpot/myparkspot/location_map_challenge/app/src/main/AndroidManifest.xml:35:13-39:29
+action#android.intent.action.MAIN
+ADDED from /Users/alecfelt/MyParkSpot/myparkspot/location_map_challenge/app/src/main/AndroidManifest.xml:36:17-69
+	android:name
+		ADDED from /Users/alecfelt/MyParkSpot/myparkspot/location_map_challenge/app/src/main/AndroidManifest.xml:36:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /Users/alecfelt/MyParkSpot/myparkspot/location_map_challenge/app/src/main/AndroidManifest.xml:38:17-77
+	android:name
+		ADDED from /Users/alecfelt/MyParkSpot/myparkspot/location_map_challenge/app/src/main/AndroidManifest.xml:38:27-74
+uses-sdk
+INJECTED from /Users/alecfelt/MyParkSpot/myparkspot/location_map_challenge/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+MERGED from [com.android.support:appcompat-v7:26.0.0-alpha1] /Users/alecfelt/.android/build-cache/939da038cf9a45c34ac4bb3c4cb08d122790232f/output/AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:animated-vector-drawable:26.0.0-alpha1] /Users/alecfelt/.android/build-cache/eff523cd2dff9d3283039470bae28ea5519c0031/output/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:26.0.0-alpha1] /Users/alecfelt/.android/build-cache/2b495489fce2f2c5b12abeedc613f13e847ff1bb/output/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-maps:11.0.4] /Users/alecfelt/.android/build-cache/97684363c2b8e2020c1400306b7cef757d1a1f63/output/AndroidManifest.xml:23:5-43
+MERGED from [com.google.android.gms:play-services-base:11.0.4] /Users/alecfelt/.android/build-cache/fa349c45dbbfc63b844d240168a8b3c398640ece/output/AndroidManifest.xml:17:5-43
+MERGED from [com.google.android.gms:play-services-tasks:11.0.4] /Users/alecfelt/.android/build-cache/74f7ce64a444b3cdb2418e12bc74a65a41d32525/output/AndroidManifest.xml:3:5-43
+MERGED from [com.google.android.gms:play-services-basement:11.0.4] /Users/alecfelt/.android/build-cache/3f646f2f842aa3af5a2e104915064b90e2a35d4c/output/AndroidManifest.xml:17:5-43
+MERGED from [com.android.support:support-v4:26.0.0-alpha1] /Users/alecfelt/.android/build-cache/6b0cd7e74ca4e8857f53d2837348e26bcb0bad51/output/AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-media-compat:26.0.0-alpha1] /Users/alecfelt/.android/build-cache/325f29fd3f1187f7d0b3c6149362aa39b2de7f21/output/AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-fragment:26.0.0-alpha1] /Users/alecfelt/.android/build-cache/140a300b44981cff7825661a0e56658a0f5c1dd6/output/AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-core-ui:26.0.0-alpha1] /Users/alecfelt/.android/build-cache/db12c17a8bdaf683a4de555d12b7437a401b5722/output/AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-core-utils:26.0.0-alpha1] /Users/alecfelt/.android/build-cache/8f3336fa590375a547deb009b938c85ae25f2db2/output/AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:support-compat:26.0.0-alpha1] /Users/alecfelt/.android/build-cache/6af004cc92b99d4456ce66349ca3e0a23b5670f5/output/AndroidManifest.xml:21:5-23:58
+	tools:overrideLibrary
+		ADDED from [com.android.support:appcompat-v7:26.0.0-alpha1] /Users/alecfelt/.android/build-cache/939da038cf9a45c34ac4bb3c4cb08d122790232f/output/AndroidManifest.xml:23:9-75
+	android:targetSdkVersion
+		INJECTED from /Users/alecfelt/MyParkSpot/myparkspot/location_map_challenge/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/alecfelt/MyParkSpot/myparkspot/location_map_challenge/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /Users/alecfelt/MyParkSpot/myparkspot/location_map_challenge/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/alecfelt/MyParkSpot/myparkspot/location_map_challenge/app/src/main/AndroidManifest.xml
+meta-data#android.support.VERSION
+ADDED from [com.android.support:appcompat-v7:26.0.0-alpha1] /Users/alecfelt/.android/build-cache/939da038cf9a45c34ac4bb3c4cb08d122790232f/output/AndroidManifest.xml:25:5-27:41
+MERGED from [com.android.support:animated-vector-drawable:26.0.0-alpha1] /Users/alecfelt/.android/build-cache/eff523cd2dff9d3283039470bae28ea5519c0031/output/AndroidManifest.xml:22:5-24:41
+MERGED from [com.android.support:support-vector-drawable:26.0.0-alpha1] /Users/alecfelt/.android/build-cache/2b495489fce2f2c5b12abeedc613f13e847ff1bb/output/AndroidManifest.xml:22:5-24:41
+MERGED from [com.android.support:support-v4:26.0.0-alpha1] /Users/alecfelt/.android/build-cache/6b0cd7e74ca4e8857f53d2837348e26bcb0bad51/output/AndroidManifest.xml:25:5-27:41
+MERGED from [com.android.support:support-media-compat:26.0.0-alpha1] /Users/alecfelt/.android/build-cache/325f29fd3f1187f7d0b3c6149362aa39b2de7f21/output/AndroidManifest.xml:25:5-27:41
+MERGED from [com.android.support:support-fragment:26.0.0-alpha1] /Users/alecfelt/.android/build-cache/140a300b44981cff7825661a0e56658a0f5c1dd6/output/AndroidManifest.xml:25:5-27:41
+MERGED from [com.android.support:support-core-ui:26.0.0-alpha1] /Users/alecfelt/.android/build-cache/db12c17a8bdaf683a4de555d12b7437a401b5722/output/AndroidManifest.xml:25:5-27:41
+MERGED from [com.android.support:support-core-utils:26.0.0-alpha1] /Users/alecfelt/.android/build-cache/8f3336fa590375a547deb009b938c85ae25f2db2/output/AndroidManifest.xml:25:5-27:41
+MERGED from [com.android.support:support-compat:26.0.0-alpha1] /Users/alecfelt/.android/build-cache/6af004cc92b99d4456ce66349ca3e0a23b5670f5/output/AndroidManifest.xml:25:5-27:41
+	android:value
+		ADDED from [com.android.support:appcompat-v7:26.0.0-alpha1] /Users/alecfelt/.android/build-cache/939da038cf9a45c34ac4bb3c4cb08d122790232f/output/AndroidManifest.xml:27:9-38
+	android:name
+		ADDED from [com.android.support:appcompat-v7:26.0.0-alpha1] /Users/alecfelt/.android/build-cache/939da038cf9a45c34ac4bb3c4cb08d122790232f/output/AndroidManifest.xml:26:9-47
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from [com.google.android.gms:play-services-maps:11.0.4] /Users/alecfelt/.android/build-cache/97684363c2b8e2020c1400306b7cef757d1a1f63/output/AndroidManifest.xml:19:5-78
+	android:name
+		ADDED from [com.google.android.gms:play-services-maps:11.0.4] /Users/alecfelt/.android/build-cache/97684363c2b8e2020c1400306b7cef757d1a1f63/output/AndroidManifest.xml:19:22-76
+uses-permission#android.permission.INTERNET
+ADDED from [com.google.android.gms:play-services-maps:11.0.4] /Users/alecfelt/.android/build-cache/97684363c2b8e2020c1400306b7cef757d1a1f63/output/AndroidManifest.xml:20:5-66
+	android:name
+		ADDED from [com.google.android.gms:play-services-maps:11.0.4] /Users/alecfelt/.android/build-cache/97684363c2b8e2020c1400306b7cef757d1a1f63/output/AndroidManifest.xml:20:22-64
+uses-feature#0x00020000
+ADDED from [com.google.android.gms:play-services-maps:11.0.4] /Users/alecfelt/.android/build-cache/97684363c2b8e2020c1400306b7cef757d1a1f63/output/AndroidManifest.xml:21:5-77
+	android:glEsVersion
+		ADDED from [com.google.android.gms:play-services-maps:11.0.4] /Users/alecfelt/.android/build-cache/97684363c2b8e2020c1400306b7cef757d1a1f63/output/AndroidManifest.xml:21:19-51
+	android:required
+		ADDED from [com.google.android.gms:play-services-maps:11.0.4] /Users/alecfelt/.android/build-cache/97684363c2b8e2020c1400306b7cef757d1a1f63/output/AndroidManifest.xml:21:52-75
+activity#com.google.android.gms.common.api.GoogleApiActivity
+ADDED from [com.google.android.gms:play-services-base:11.0.4] /Users/alecfelt/.android/build-cache/fa349c45dbbfc63b844d240168a8b3c398640ece/output/AndroidManifest.xml:19:9-172
+	android:exported
+		ADDED from [com.google.android.gms:play-services-base:11.0.4] /Users/alecfelt/.android/build-cache/fa349c45dbbfc63b844d240168a8b3c398640ece/output/AndroidManifest.xml:19:146-170
+	android:theme
+		ADDED from [com.google.android.gms:play-services-base:11.0.4] /Users/alecfelt/.android/build-cache/fa349c45dbbfc63b844d240168a8b3c398640ece/output/AndroidManifest.xml:19:86-145
+	android:name
+		ADDED from [com.google.android.gms:play-services-base:11.0.4] /Users/alecfelt/.android/build-cache/fa349c45dbbfc63b844d240168a8b3c398640ece/output/AndroidManifest.xml:19:19-85
+meta-data#com.google.android.gms.version
+ADDED from [com.google.android.gms:play-services-basement:11.0.4] /Users/alecfelt/.android/build-cache/3f646f2f842aa3af5a2e104915064b90e2a35d4c/output/AndroidManifest.xml:20:9-121
+	android:value
+		ADDED from [com.google.android.gms:play-services-basement:11.0.4] /Users/alecfelt/.android/build-cache/3f646f2f842aa3af5a2e104915064b90e2a35d4c/output/AndroidManifest.xml:20:66-119
+	android:name
+		ADDED from [com.google.android.gms:play-services-basement:11.0.4] /Users/alecfelt/.android/build-cache/3f646f2f842aa3af5a2e104915064b90e2a35d4c/output/AndroidManifest.xml:20:20-65

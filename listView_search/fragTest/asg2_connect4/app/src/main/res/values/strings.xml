@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">asg2_connect4</string>
+
+    <string name="exit">Exit</string>
+    <string name="startGame">Start Game</string>
+    <string name="resumeGame">Resume Game</string>
+    <string name="returnMenu">Return to Menu</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+</resources>

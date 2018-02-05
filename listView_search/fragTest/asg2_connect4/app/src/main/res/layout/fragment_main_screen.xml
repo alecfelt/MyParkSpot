@@ -1,0 +1,42 @@
+<android.support.constraint.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/mainScreenFragment"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="com.ucsc.zachary.asg2_connect4.mainScreenFragment"
+    tools:layout_editor_absoluteY="81dp">
+
+    <Button
+        android:id="@+id/exitButton"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginBottom="85dp"
+        android:layout_marginStart="16dp"
+        android:text="@string/exit"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintStart_toStartOf="@+id/resumeGameButton"
+        android:layout_marginLeft="16dp" />
+
+    <Button
+        android:id="@+id/startGameButton"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginBottom="13dp"
+        android:layout_marginStart="5dp"
+        android:text="@string/startGame"
+        app:layout_constraintBottom_toTopOf="@+id/resumeGameButton"
+        app:layout_constraintStart_toStartOf="@+id/resumeGameButton"
+        android:layout_marginLeft="5dp" />
+
+    <Button
+        android:id="@+id/resumeGameButton"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginBottom="15dp"
+        android:text="@string/resumeGame"
+        app:layout_constraintBottom_toTopOf="@+id/exitButton"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent" />
+
+</android.support.constraint.ConstraintLayout>

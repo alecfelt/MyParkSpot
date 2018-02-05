@@ -1,0 +1,113 @@
+{
+  "project_info": {
+    "project_number": "1071102559950",
+    "firebase_url": "https://myparkspot.firebaseio.com",
+    "project_id": "myparkspot",
+    "storage_bucket": "myparkspot.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1071102559950:android:def3f2cd3c9ee9fd",
+        "android_client_info": {
+          "package_name": "com.myParkSpot.android"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1071102559950-5rmafeeevn7fttp683f4l43aihoha8rq.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.myParkSpot.android",
+            "certificate_hash": "2e6a34c6243af928e1d63a3b7cc6d9a4d9844384"
+          }
+        },
+        {
+          "client_id": "1071102559950-kuqtnv59bnundq094r2hkrsckj5ou6os.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCCb285fpc2_9OqpOrbWLMITz5cNd4iXo8"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1071102559950-kuqtnv59bnundq094r2hkrsckj5ou6os.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "1071102559950-n0c2tr3ve8206svi9vn5c1vkk1b0i5qv.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.myParkSpot.app"
+              }
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1071102559950:android:bb6227dd51f24005",
+        "android_client_info": {
+          "package_name": "com.cs121.myparkspot"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1071102559950-h2oaib4rdbimtj5pna4r3gufc5tdrg3j.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.cs121.myparkspot",
+            "certificate_hash": "3dfe046e387d8354b7f9abe96e902c484c5f095f"
+          }
+        },
+        {
+          "client_id": "1071102559950-kuqtnv59bnundq094r2hkrsckj5ou6os.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCCb285fpc2_9OqpOrbWLMITz5cNd4iXo8"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1071102559950-kuqtnv59bnundq094r2hkrsckj5ou6os.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "1071102559950-n0c2tr3ve8206svi9vn5c1vkk1b0i5qv.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.myParkSpot.app"
+              }
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/Users/alecfelt/MyParkSpot/myparkspot/location_map_challenge/app/build/intermediates/res/merged/debug/mipmap-hdpi/ic_launcher.png",
+        "source": "/Users/alecfelt/MyParkSpot/myparkspot/location_map_challenge/app/src/main/res/mipmap-hdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/alecfelt/MyParkSpot/myparkspot/location_map_challenge/app/build/intermediates/res/merged/debug/mipmap-hdpi/ic_launcher_round.png",
+        "source": "/Users/alecfelt/MyParkSpot/myparkspot/location_map_challenge/app/src/main/res/mipmap-hdpi/ic_launcher_round.png"
+    }
+]

@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="/Users/alecfelt/.android/build-cache/fa349c45dbbfc63b844d240168a8b3c398640ece/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="70ffe00aaf049893f59d1dad57bd82992faa38ef">
+        <dex dex="/Users/alecfelt/MyParkSpot/myparkspot/location_map_challenge/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_40b51cd17620f3381f3cc99d2b319101e4616596/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/alecfelt/.android/build-cache/74f7ce64a444b3cdb2418e12bc74a65a41d32525/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="2430e711762a749feb00b3d64858ca4768251b9d">
+        <dex dex="/Users/alecfelt/MyParkSpot/myparkspot/location_map_challenge/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_157187be18b4ee9b1b73f117da3a4e3cf893ee93/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/alecfelt/.android/build-cache/3f646f2f842aa3af5a2e104915064b90e2a35d4c/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="364364bf77b4a71afc5930fc3ae57b3f0eea637c">
+        <dex dex="/Users/alecfelt/MyParkSpot/myparkspot/location_map_challenge/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_04277f3a06c0cd7a9fb48f22a687b9eae1a1ed51/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/alecfelt/MyParkSpot/myparkspot/location_map_challenge/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="bc4fe7b1e256c5843c7d0420ed997ce93a51505b">
+        <dex dex="/Users/alecfelt/MyParkSpot/myparkspot/location_map_challenge/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_57784ecc585cdb58fd640a7ffca82151cf260904/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/alecfelt/.android/build-cache/97684363c2b8e2020c1400306b7cef757d1a1f63/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="fcae52a60bc07924d370b4d376116cd8f8581f54">
+        <dex dex="/Users/alecfelt/MyParkSpot/myparkspot/location_map_challenge/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_022475868c4bb5d6c9e0bf217cd8a5f201bed836/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/alecfelt/MyParkSpot/myparkspot/location_map_challenge/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="3be78ebc2706b2e1fe2f12d5726887a92d6c183b">
+        <dex dex="/Users/alecfelt/MyParkSpot/myparkspot/location_map_challenge/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_90d2b22739bdd764c9ca77b7822f95337b1f233e/classes.dex" />
+    </item>
+
+</items>

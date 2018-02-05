@@ -1,0 +1,31 @@
+<resources>
+    <string name="app_name">fragTest</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="search">Search</string>
+    <string name="settings">Settings</string>
+    <string name="reserveButton">Reserve</string>
+    <string name="viewProfile">View Profile</string>
+    <string name="location">Location</string>
+    <string name="datesAvailable">Dates Available</string>
+    <string name="price">Price</string>
+    <string name="parkingSpotImage">Parking Spot Image</string>
+
+    <string-array name="parkSpot1">
+        <item>address</item>
+        <item>city</item>
+        <item>state</item>
+    </string-array>
+
+    <string-array name="parkSpot2">
+        <item>address2</item>
+        <item>city2</item>
+        <item>state2</item>
+    </string-array>
+
+    <array name="fullListing">
+        <item>@array/parkSpot1</item>
+        <item>@array/parkSpot2</item>
+    </array>
+</resources>

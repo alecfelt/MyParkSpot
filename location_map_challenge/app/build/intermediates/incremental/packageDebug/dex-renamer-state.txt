@@ -1,0 +1,7 @@
+#Sat Dec 02 16:36:00 PST 2017
+base.0=/Users/alecfelt/MyParkSpot/myparkspot/location_map_challenge/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_90d2b22739bdd764c9ca77b7822f95337b1f233e
+renamed.1=classes.dex
+renamed.0=classes2.dex
+file.1=/Users/alecfelt/MyParkSpot/myparkspot/location_map_challenge/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_57784ecc585cdb58fd640a7ffca82151cf260904/classes.dex
+base.1=/Users/alecfelt/MyParkSpot/myparkspot/location_map_challenge/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_57784ecc585cdb58fd640a7ffca82151cf260904
+file.0=/Users/alecfelt/MyParkSpot/myparkspot/location_map_challenge/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_90d2b22739bdd764c9ca77b7822f95337b1f233e/classes.dex
