@@ -1,10 +1,8 @@
-# README #
-Team Members:
-
-Alec Felt
-Evan Blank
-Sanjeet Sanhotra
-Zachary Olson
-=======
 # MyParkSpot
-Final App for CMPS 121
+Final Android App for CMPS 121.
+Parking spot renting app.
+# Contributors
+Evan Blank
+Alec Felt
+Zachary Olson
+Sanjheet Sanhotra
